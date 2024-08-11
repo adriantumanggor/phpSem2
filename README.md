@@ -1,2 +1,2 @@
 # phpSem2
-asek
+masih belajar bg
